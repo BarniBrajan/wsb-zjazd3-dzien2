@@ -37,3 +37,6 @@ Klasa z atrybutami i funkcja __init__ -> constructorem
 
 ## File 12.py
 Dziedziczenie klas
+
+## File 13.py
+Dziedziczenie klas i tworzenie roznych profesji zawodowych
