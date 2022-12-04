@@ -1,29 +1,29 @@
 # Python
 
-## File 1.py
+* File 1.py
 Przyklad tworzenia funkcji i wywolanie
 
-## File 2.py
+* File 2.py
 Przyklad funkcji z wywolaniem - wypisanie na ekranie tekstu z funkcji
 
-## File 3.py
+* File 3.py
 Przyklad funkcji zwracajacej wartosc True
 Wypisanie na ekranie Prawda na podstawie zwracanej wartosci z funkcji 
 
-## File 4.py
+* File 4.py
 Przyklad funkcji przyjmujacej parametry wejsciowe
 
-## File 5.py
+* File 5.py
 Przyklad funkcji zwracajacej odpowiednia wartosc wg podanego parametru -
 kolory owocow
 
-## File 6.py
+* File 6.py
 Zwrocenie slownika z funkcji z parametrami wejsciowymi. Przedstawiony przyklad z jawnym przypisaniem wartosci do parametru
 
-## File 7.py
+* File 7.py
 Przyklad listowania parametrow wejsciowych. Wykrozystanie *args - wielu parametrow jako krotka  
 
-## File 8.py
+* File 8.py
 Przyklad funkcji z mieszanymi parametrami. Stale parametry i jeden jako oglny (krotka - tuple)
 
 * test
