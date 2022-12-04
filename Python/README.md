@@ -19,3 +19,8 @@ kolory owocow
 
 ## File 6.py
 Zwrocenie slownika z funkcji z parametrami wejsciowymi. Przedstawiony przyklad z jawnym przypisaniem wartosci do parametru
+
+## File 7.py
+Przyklad listowania parametrow wejsciowych. Wykrozystanie *args - wielu parametrow jako krotka  
+
+## File 8.py
