@@ -24,3 +24,4 @@ Zwrocenie slownika z funkcji z parametrami wejsciowymi. Przedstawiony przyklad z
 Przyklad listowania parametrow wejsciowych. Wykrozystanie *args - wielu parametrow jako krotka  
 
 ## File 8.py
+Przyklad funkcji z mieszanymi parametrami. Stale parametry i jeden jako oglny (krotka - tuple)
