@@ -25,3 +25,5 @@ Przyklad listowania parametrow wejsciowych. Wykrozystanie *args - wielu parametr
 
 ## File 8.py
 Przyklad funkcji z mieszanymi parametrami. Stale parametry i jeden jako oglny (krotka - tuple)
+
+* test
