@@ -5,7 +5,7 @@ class Czlowiek():
 class Lekarz(Czlowiek):
   def __init__(self, name):
     super().__init__(name)
-    self.profession = "Lekarz: %s" % self.name
+    self.proffesion = "Lekarz: %s" % self.name
 
 class Prawnik(Czlowiek):
   def __init__(self, name):
@@ -19,4 +19,5 @@ peopleList = []
 peopleList.append(Lekarz("Janusz"))
 peopleList.append(Prawnik("Tobiasz"))
 
-
+for item in peopleList:
+  print(item.proffesion)

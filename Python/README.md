@@ -40,3 +40,12 @@ Dziedziczenie klas
 
 ## File 13.py
 Dziedziczenie klas i tworzenie roznych profesji zawodowych
+
+## File 14.py
+Dziedziczenie klas i wywolanie metod klas rodzica i dziecka
+
+## File 16.py
+Dziedziczenie klas i wykorzystywanie atrybutow klasy nadrzednej
+
+## File 17.py
+Dziedziczenie wilokrotne
