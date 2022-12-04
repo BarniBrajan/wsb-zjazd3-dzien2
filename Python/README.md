@@ -17,3 +17,5 @@ Przyklad funkcji przyjmujacej parametry wejsciowe
 Przyklad funkcji zwracajacej odpowiednia wartosc wg podanego parametru -
 kolory owocow
 
+## File 6.py
+Zwrocenie slownika z funkcji z parametrami wejsciowymi. Przedstawiony przyklad z jawnym przypisaniem wartosci do parametru
