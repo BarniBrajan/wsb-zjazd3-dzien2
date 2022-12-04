@@ -34,3 +34,6 @@ Klasa z atrybutami zewnetrznymi
 
 ## File 11.py
 Klasa z atrybutami i funkcja __init__ -> constructorem
+
+## File 12.py
+Dziedziczenie klas
