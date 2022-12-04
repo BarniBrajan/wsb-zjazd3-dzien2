@@ -13,3 +13,19 @@ wywolujemy testy poprze polecenie:
 
 ## File 2.py
 testowanie funkcji
+
+## Pytest - File 1.py
+
+### srodowisko wirtualne
+```
+python3 -m venv .venv 
+```
+### aktywacja srodowiska wirtualnego
+```
+source .venv/bin/activate
+```
+### wywolanie testow w pytest
+```
+pytest -v
+```
+Pliki testowe musza zaczynac sie od "test_***" gdzie ** dalsza nazwa pliku
